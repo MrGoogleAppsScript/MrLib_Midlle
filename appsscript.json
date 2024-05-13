@@ -1,0 +1,18 @@
+{
+  "timeZone": "Europe/Moscow",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "MrLib_External",
+      "libraryId": "1hd0JSbXlolXFAc6yDpBHTd5P6BrkbUd4jfiDFWY6vqx0cDyb4lHVM2Ss",
+      "version": "0",
+      "developmentMode": true
+    }, {
+      "userSymbol": "MrLib_Midlle",
+      "libraryId": "1z-FkW1pAgpO8lF_0upIWty7zfWlhx4i_84COmm17twjgOExDeeCyZHiz",
+      "version": "0",
+      "developmentMode": true
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
